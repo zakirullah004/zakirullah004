@@ -1,16 +1,161 @@
+<h1 align="center">Hi 👋, I'm Zakir Khan</h1>
 
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Software+Engineering+Intern+%40+Saylani+Tech;Passionate+Learner;Frontend+%26+Backend+Developer;Good+Communication+Skills;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG"/>
+</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zakirullah004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zakirullah004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zakirullah004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zakirullah004&label=Profile+Views&color=00F7A5&style=for-the-badge"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zakirullah004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<a href="https://github.com/zakirullah004">
+<img src="https://img.shields.io/github/followers/zakirullah004?label=Followers&style=for-the-badge&color=00F7A5"/>
+</a>
+<a href="https://github.com/zakirullah004?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=zakirullah004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+<p align="center">
+
+💼 Software Engineering Intern at **Saylani Tech**
+
+🚀 Passionate MERN Stack Developer building modern, scalable and responsive web applications.
+
+🌱 Currently Learning **Database • SQL • Oracle**
+
+👯 Looking to collaborate on **Open Source & MERN Stack Projects**
+
+🤝 Always excited to learn new technologies and solve real-world problems.
+
+💬 Ask me about **React • Next.js • Node.js • Express • MongoDB • SQL**
+
+🎯 Strong Communication • Teamwork • Problem Solving Skills
+
+⚡ Fun Fact: **I'm the funny one in the team—I debug code with coffee and jokes! 😂**
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/zakir-khan-a3b7952b8">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://instagram.com/zakir.khan_004">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="mailto:zk743087@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,firebase,supabase,tailwind,bootstrap,sass,redux,vite,docker,git,github,postman,aws,cpp,c,python"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakirullah004&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirullah004&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zakirullah004&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zakirullah004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zakirullah004&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🔥 Top Contributed Repo
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=zakirullah004&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ☕ Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+# 😂 Random Dev Meme
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐️ Thanks for visiting my profile ⭐️
+
+🚀 Let's build something amazing together!
+
+</h3>
+
