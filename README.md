@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/zakir-khan-a3b7952b8" target="_blank">Zakir Khan</a></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=900&color=00F7A5&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Software+Engineering+Intern+%40+Saylani+Tech;Passionate+Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Technologies+🚀" alt="Typing SVG"/>
+🚀 MERN Stack Developer | 💻 Full Stack Developer | 🌱 Software Engineering Intern @ Saylani Tech | ❤️ Open Source Contributor
 </h3>
 
 <p align="center">
