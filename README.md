@@ -16,23 +16,6 @@
   </a>
 </p>
 
----
-
-# 💫 About Me
-
-* 💼 **Role:** Software Engineering Intern at **Saylani Tech**
-* 🚀 **Passion:** Building modern, scalable, and responsive web applications.
-* 🌱 **Current Focus:** Deep diving into **Database Systems, SQL & Oracle**.
-* 👯 **Collaboration:** Open for **MERN Stack & Open Source Projects**.
-* 🤝 **Mindset:** Always excited to learn new technologies and solve real-world problems.
-* 💬 **Ask Me About:** JavaScript, React, Next.js, Node.js, Express, MongoDB, SQL
-* 🎯 **Core Skills:** Strong Communication, Teamwork, Problem Solving
-* ⚡ **Fun Fact:** I'm the funny one in the team—I debug code with coffee and jokes! 😂
-
----
-
-# 🌐 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/zakir-khan-a3b7952b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -47,7 +30,19 @@
 
 ---
 
-# 💻 Tech Stack
+## 💫 About Me
+
+* 💼 **Role:** Software Engineering Intern at **Saylani Tech**
+* 🚀 **Passion:** Building modern, scalable, and responsive web applications.
+* 🌱 **Current Focus:** Deep diving into **Database Systems, SQL & Oracle**.
+* 👯 **Collaboration:** Open for **MERN Stack & Open Source Projects**.
+* 🤝 **Mindset:** Always excited to learn new technologies and solve real-world problems.
+* 💬 **Ask Me About:** JavaScript, React, Next.js, Node.js, Express, MongoDB, SQL
+* ⚡ **Fun Fact:** I'm the funny one in the team—I debug code with coffee and jokes! 😂
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <b>Frontend</b><br/>
@@ -60,20 +55,28 @@
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[Project 1 Name](#)** | A brief description of what this project does and the problem it solves. | React, Node.js, MongoDB | [Live Demo](#) / [Repo](#) |
+| **[Project 2 Name](#)** | A brief description of your second awesome project. | Next.js, Tailwind, Postgres | [Live Demo](#) / [Repo](#) |
+| **[Project 3 Name](#)** | Something cool you built during your internship or learning phase. | Express, API, Firebase | [Live Demo](#) / [Repo](#) |
+
+*(Note: Replace the `#` with your actual project links and update the names!)*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakirullah004&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirullah004&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zakirullah004&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirullah004&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zakirullah004&theme=chartreuse-dark&hide_border=true" />
 </p>
-
----
-
-# 📈 GitHub Activity Graph
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -83,7 +86,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zakirullah004&theme=algolia&no-frame=true&margin-w=10" />
@@ -91,15 +94,7 @@
 
 ---
 
-# 🔥 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zakirullah004&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Grid Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -107,18 +102,11 @@
 
 ---
 
-# ☕ Random Dev Quote
+## ☕ Fun Corner
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-# 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+  <img width="48%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img width="48%" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </p>
 
 ---
