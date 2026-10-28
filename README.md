@@ -1,145 +1,137 @@
 
-<h1 align="center">Hey 👋, I'm <a href="https://linkedin.com/in/zakir-khan-a3b7952b8">Zakir Khan</a></h1>
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<h3 align="center">🚀 MERN Stack Developer | Full Stack Developer | Software Engineering Intern @ Saylani Tech</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00F7A5&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Learning+SQL+%26+Database+Systems;Open+Source+Enthusiast;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# Zakir Khan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakirullah004&label=Profile%20Views&color=00F7A5&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zakirullah004?label=Followers&style=for-the-badge&color=00F7A5&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/zakirullah004?affiliations=OWNER&style=for-the-badge&color=00F7A5&logo=github" alt="GitHub Stars" />
-</p>
+### Full Stack Developer · Software Engineering Intern
 
-<p align="center">
-  <a href="https://linkedin.com/in/zakir-khan-a3b7952b8">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zk743087@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/zakir.khan_004">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+Building practical web applications with clean code, thoughtful design, and reliable databases.
 
----
+<br/>
 
-## 👨‍💻 About Me
+<a href="https://linkedin.com/in/zakir-khan-a3b7952b8">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7A5?style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
+<a href="mailto:zk743087@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-00F7A5?style=flat-square&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+<a href="https://github.com/zakirullah004?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Projects-00F7A5?style=flat-square&logo=github&logoColor=black" alt="Projects"/>
+</a>
+<a href="https://instagram.com/zakir.khan_004">
+  <img src="https://img.shields.io/badge/Instagram-Follow-00F7A5?style=flat-square&logo=instagram&logoColor=black" alt="Instagram"/>
+</a>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+<br/><br/>
 
-- 💼 Software Engineering Intern at **Saylani Tech**
-- 🎓 Software Engineering Student
-- 🚀 Passionate about building modern full-stack applications
-- 🌱 Currently learning **SQL, Oracle, Database Systems & Backend Development**
-- 💻 Working with the **MERN Stack**
-- 🤝 Open to open-source contributions and freelance opportunities
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB & SQL**
-- ⚡ Fun fact: I debug code with coffee and memes ☕😂
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110F,50:0B2920,100:00F7A5&height=2&section=header" width="100%" alt=""/>
 
-<br clear="right"/>
+</div>
 
----
+<!-- ===================== ABOUT ===================== -->
 
-## 🎯 Current Goals
+## `$ whoami`
 
-- [ ] 🚀 Become an expert MERN Stack Developer
-- [ ] 🌍 Contribute to meaningful open-source projects
-- [ ] 🏗️ Learn System Design and Cloud Computing
-- [ ] 💡 Build scalable, production-ready applications
-- [ ] 🎓 Prepare for a Master's degree abroad
+I'm a Software Engineering student and **Software Engineering Intern at Saylani Tech**, focused on building useful, maintainable software.
+
+- 💻 Interested in full-stack web development and real-world applications.
+- ⚙️ Working with JavaScript, React, Node.js, Express, and MongoDB.
+- 🗄️ Learning SQL, database systems, and Oracle.
+- 🧩 Interested in backend logic, CRUD applications, and database design.
+- 🌱 Continuously improving my problem-solving and software engineering skills.
+- 🤝 Open to collaboration, open-source contributions, and development opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## `$ tech-stack`
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,vite" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend technologies"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,supabase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,supabase" alt="Backend and database technologies"/>
 </p>
-
-### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" alt="Developer Tools" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-00F7A5?style=flat-square&logo=databricks&logoColor=black" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Oracle-Database%20Learning-00F7A5?style=flat-square&logo=oracle&logoColor=black" alt="Oracle"/>
 </p>
 
-### ☁️ Cloud & Programming Languages
+### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,cpp,c,python" alt="Cloud and Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" alt="Development tools"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## `$ currently_focused_on`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zakirullah004&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirullah004&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=zakirullah004&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakirullah004&theme=react-dark&hide_border=true&area=true&color=00F7A5&line=00F7A5&point=FFFFFF" width="100%" alt="Contribution Graph" />
-</p>
+| Area | Focus |
+|---|---|
+| Full Stack | Building end-to-end web applications |
+| Backend | REST APIs, authentication, and application logic |
+| Databases | SQL queries, relationships, and data management |
+| Oracle | PL/SQL fundamentals and database programming |
+| Engineering | Clean code, debugging, and maintainable architecture |
 
 ---
 
-## 🐍 Contribution Snake
+## `$ github-stats`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zakirullah004/zakirullah004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
+<div align="center">
 
----
+<a href="https://github.com/zakirullah004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zakirullah004&show_icons=true&hide_border=true&bg_color=07110F&title_color=00F7A5&icon_color=00F7A5&text_color=E6F4EF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/zakirullah004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirullah004&layout=compact&hide_border=true&bg_color=07110F&title_color=00F7A5&text_color=E6F4EF" alt="Most used languages"/>
+</a>
 
-## 🏆 GitHub Achievements
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zakirullah004&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</p>
+<img width="85%" src="https://streak-stats.demolab.com?user=zakirullah004&hide_border=true&background=07110F&ring=00F7A5&fire=00F7A5&currStreakLabel=00F7A5&sideLabels=E6F4EF&currStreakNum=E6F4EF&sideNums=E6F4EF&dates=8A9A94" alt="GitHub contribution streak"/>
 
----
-
-## 💭 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Build Something Amazing!
+## `$ featured-work`
 
-<p align="center">
-  💚 Thanks for visiting my profile! <br/>
-  I'm always excited to learn, collaborate, and build impactful software.
+Explore my repositories for projects, experiments, and ongoing development.
+
+<div align="center">
+
+<a href="https://github.com/zakirullah004?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-00F7A5?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## `$ connect`
+
+Interested in software development, database systems, or building something useful? Let's connect.
+
+<p align="left">
+  <a href="https://linkedin.com/in/zakir-khan-a3b7952b8">LinkedIn</a> ·
+  <a href="mailto:zk743087@gmail.com">Email</a> ·
+  <a href="https://github.com/zakirullah004">GitHub</a> ·
+  <a href="https://instagram.com/zakir.khan_004">Instagram</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/zakirullah004?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-00F7A5?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,100:00BFFF&height=120&section=footer" width="100%" alt="Footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,100:07110F&height=90&section=footer" width="100%" alt=""/>
+
+<sub>Designed with focus. Built with curiosity. Improved with every commit.</sub>
+
+</div>
